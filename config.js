@@ -1,9 +1,9 @@
-module.exports = {
+ module.exports = {
     bot: {
         tokens: [
-          "YOUR_BOT_TOKEN_HERE",              // Main bot token - Replace with your actual token
-        //  "YOUR_SECOND_BOT_TOKEN_HERE",      // 2 bot token - Uncomment and replace to use
-        //  "YOUR_THIRD_BOT_TOKEN_HERE",       // 3 bot token - Uncomment and replace to use
+          "MTUxNjA2NTgxMjUzOTExNzYwOA.GKZfEo.qTib3hyHYrauZhnduTUpI4zEtVzTSg8i92YN2c",              // Main bot token - Replace with your actual token
+        //  "MTUxNjA2NjAxNjA4NDM2NTQ0NA.G8m0rj.12u8QT-H9KM9qUgdcuaOkJPEsxfCbhZKeJYlAY",      // 2 bot token - Uncomment and replace to use
+        //  "MTUxNjA2NTkwNDYxNjU0MjIwOA.GgTrsU.rXgLCLUQDA754kn1_aah9GmBtFuvonqrhh0VEs",       // 3 bot token - Uncomment and replace to use
         //  "YOUR_FOURTH_BOT_TOKEN_HERE",      // 4 bot token - Uncomment and replace to use
         //  "YOUR_FIFTH_BOT_TOKEN_HERE",       // 5 bot token - Uncomment and replace to use
         ].filter(Boolean),
@@ -17,9 +17,9 @@ module.exports = {
         }
     },
     server: {
-        guildId: 'ID',         // ايدي السيرفر
-        broadcastRoleId: 'ID', // ايدي الرول اللي يستخدم عليها البوت
-        reportChannelId: 'ID' // ايدي الروم اللي يرسل فيه البوت التقارير
+        guildId: '1448798499087843423',         // ايدي السيرفر
+        broadcastRoleId: '1469314086209847355', // ايدي الرول اللي يستخدم عليها البوت
+        reportChannelId: '1457324293858787564' // ايدي الروم اللي يرسل فيه البوت التقارير
     },
     broadcast: {
         cooldownTime: 1000, // لا تلعب فيها
